@@ -1,2 +1,3 @@
-Test für die Schulung. Edit to push in develop
 Master Branch changes
+Develop Branch
+
